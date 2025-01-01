@@ -100,13 +100,13 @@
 	      <name>Walmart snapshot Nexus Repository</name>
 	      <url>http://172.31.33.28:8081/repository/walmart-snapshot/</url>
 	    </repository>
-	    
+	    <!--
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>walmart release Nexus Repository </name>
 	      <url>http://172.31.33.28:8081/repository/walmart-release/</url>
 	    </snapshotRepository>
-	    
+	    -->
 	</distributionManagement>
 	
 	<build>
